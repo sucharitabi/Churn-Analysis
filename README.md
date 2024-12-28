@@ -45,5 +45,5 @@ The dataset is sourced from the IBM Telco Customer Churn dataset:
 
 
 ## Documentation
-The full project documentation is available [here](documentation/Telco-Churn-Analysis.docs).
+The full project documentation is available [here](https://github.com/sucharitabi/Churn-Analysis/blob/main/Detail%20Documentation/Churn%20Analysis%20of%20Telco%20Customers.docx).
 
