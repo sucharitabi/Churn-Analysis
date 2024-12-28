@@ -19,7 +19,7 @@ Key deliverables include SQL queries for data analysis, an interactive Power BI 
 
 ### 1. Dataset
 The dataset is sourced from the IBM Telco Customer Churn dataset:
-- [Download the Dataset](https://github.com/sucharitabi/Churn-Analysis/blob/main/Telco-Customer-Churn.csv)
+- [Download the Dataset](https://github.com/sucharitabi/Churn-Analysis/blob/main/Data/Telco-Customer-Churn.csv)
 
 ### 2. SQL Analysis
 - Execute the scripts in MySQL to perform descriptive statistics, churn rate calculations, and analyses by demographics, service type, financial aspects, and contract terms.
